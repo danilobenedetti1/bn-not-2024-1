@@ -23,6 +23,7 @@ model Cliente{
   bairro           String
   complemento      String?
   municipio        String
+  uf               String
   telefone         String
   email            String
 }
